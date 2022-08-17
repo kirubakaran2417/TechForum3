@@ -36,7 +36,11 @@ public class Operators {
 		System.out.println(a);
 		System.out.println(--a);
 		
-		
+//		student name
+//		student marks for 5 subjects
+//		expected op
+//		he/she grand total score is 'total'
+//		The average is 'avg'
 
 	}
 
