@@ -25,6 +25,7 @@ public class fruitbox {//classesandobjects demo
 	}
 	
     public int mul() {
+    	
 		int c=a*b;
 		return c;
 	}
